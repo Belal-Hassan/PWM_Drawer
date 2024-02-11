@@ -1,0 +1,876 @@
+Archive member included to satisfy reference by file (symbol)
+
+x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(addsf3.o)
+                              HAL/LCD/LCD_Interface.o (__subsf3)
+x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(addsf3x.o)
+                              x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(addsf3.o) (__addsf3x)
+x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(divsf3.o)
+                              HAL/LCD/LCD_Interface.o (__divsf3)
+x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(divsf3x.o)
+                              x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(divsf3.o) (__divsf3x)
+x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(fixsfdi.o)
+                              HAL/LCD/LCD_Interface.o (__fixunssfdi)
+x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(fixunssfsi.o)
+                              HAL/LCD/LCD_Interface.o (__fixunssfsi)
+x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(floatsisf.o)
+                              HAL/LCD/LCD_Interface.o (__floatunsisf)
+x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(fp_inf.o)
+                              x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(addsf3x.o) (__fp_inf)
+x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(fp_nan.o)
+                              x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(addsf3x.o) (__fp_nan)
+x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(fp_negdi.o)
+                              x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(fixsfdi.o) (__fp_negdi)
+x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(fp_pscA.o)
+                              x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(addsf3x.o) (__fp_pscA)
+x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(fp_pscB.o)
+                              x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(addsf3x.o) (__fp_pscB)
+x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(fp_round.o)
+                              x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(addsf3.o) (__fp_round)
+x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(fp_split3.o)
+                              x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(addsf3x.o) (__fp_split3)
+x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(fp_zero.o)
+                              x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(addsf3x.o) (__fp_zero)
+x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(mulsf3.o)
+                              HAL/LCD/LCD_Interface.o (__mulsf3)
+x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(mulsf3x.o)
+                              x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(mulsf3.o) (__mulsf3x)
+x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(pow.o)
+                              HAL/LCD/LCD_Interface.o (pow)
+x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(round.o)
+                              HAL/LCD/LCD_Interface.o (round)
+x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(exp.o)
+                              x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(pow.o) (exp)
+x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(fp_mintl.o)
+                              x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(round.o) (__fp_mintl)
+x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(fp_mpack.o)
+                              x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(round.o) (__fp_mpack)
+x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(fp_powser.o)
+                              x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(exp.o) (__fp_powser)
+x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(inverse.o)
+                              x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(exp.o) (inverse)
+x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(ldexp.o)
+                              x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(exp.o) (ldexp)
+x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(log.o)
+                              x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(pow.o) (log)
+x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(modf.o)
+                              x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(exp.o) (modf)
+x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr25\libgcc.a(_udivmodsi4.o)
+                              HAL/LCD/LCD_Interface.o (__udivmodsi4)
+x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr25\libgcc.a(_exit.o)
+                              X:/Extracurriculars/Microchip Studio/7.0/Packs/atmel/ATtiny_DFP/1.10.348/gcc/dev/attiny84/avr25/crtattiny84.o (exit)
+x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr25\libgcc.a(_copy_data.o)
+                              APP/Main.o (__do_copy_data)
+x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr25\libgcc.a(_clear_bss.o)
+                              APP/Main.o (__do_clear_bss)
+
+Allocating common symbols
+Common symbol       size              file
+
+CursorDirection     0x1               APP/Main.o
+Character_Counter   0x2               APP/Main.o
+
+Discarded input sections
+
+ .data          0x00000000        0x0 X:/Extracurriculars/Microchip Studio/7.0/Packs/atmel/ATtiny_DFP/1.10.348/gcc/dev/attiny84/avr25/crtattiny84.o
+ .bss           0x00000000        0x0 X:/Extracurriculars/Microchip Studio/7.0/Packs/atmel/ATtiny_DFP/1.10.348/gcc/dev/attiny84/avr25/crtattiny84.o
+ .text          0x00000000        0x0 APP/Main.o
+ .data          0x00000000        0x0 APP/Main.o
+ .bss           0x00000000        0x0 APP/Main.o
+ .text          0x00000000        0x0 HAL/LCD/LCD_Interface.o
+ .data          0x00000000        0x0 HAL/LCD/LCD_Interface.o
+ .bss           0x00000000        0x0 HAL/LCD/LCD_Interface.o
+ .text          0x00000000        0x0 MCAL/DIO/DIO_Interface.o
+ .data          0x00000000        0x0 MCAL/DIO/DIO_Interface.o
+ .bss           0x00000000        0x0 MCAL/DIO/DIO_Interface.o
+ .text.DIO_TogglePinValue
+                0x00000000       0x36 MCAL/DIO/DIO_Interface.o
+ .text.DIO_GetPinValue
+                0x00000000       0x36 MCAL/DIO/DIO_Interface.o
+ .text.DIO_SetPinPullUp
+                0x00000000       0x36 MCAL/DIO/DIO_Interface.o
+ .text.DIO_SetPortValue
+                0x00000000       0x26 MCAL/DIO/DIO_Interface.o
+ .text.DIO_TogglePortValue
+                0x00000000       0x1a MCAL/DIO/DIO_Interface.o
+ .text.DIO_GetPortValue
+                0x00000000       0x16 MCAL/DIO/DIO_Interface.o
+ .text.DIO_SetPortPullUp
+                0x00000000       0x16 MCAL/DIO/DIO_Interface.o
+ .text          0x00000000        0x0 MCAL/Timers/Timers_Interface.o
+ .data          0x00000000        0x0 MCAL/Timers/Timers_Interface.o
+ .bss           0x00000000        0x0 MCAL/Timers/Timers_Interface.o
+ .text          0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(addsf3.o)
+ .data          0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(addsf3.o)
+ .bss           0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(addsf3.o)
+ .text          0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(addsf3x.o)
+ .data          0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(addsf3x.o)
+ .bss           0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(addsf3x.o)
+ .text          0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(divsf3.o)
+ .data          0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(divsf3.o)
+ .bss           0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(divsf3.o)
+ .text          0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(divsf3x.o)
+ .data          0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(divsf3x.o)
+ .bss           0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(divsf3x.o)
+ .text          0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(fixsfdi.o)
+ .data          0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(fixsfdi.o)
+ .bss           0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(fixsfdi.o)
+ .text          0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(fixunssfsi.o)
+ .data          0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(fixunssfsi.o)
+ .bss           0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(fixunssfsi.o)
+ .text          0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(floatsisf.o)
+ .data          0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(floatsisf.o)
+ .bss           0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(floatsisf.o)
+ .text          0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(fp_inf.o)
+ .data          0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(fp_inf.o)
+ .bss           0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(fp_inf.o)
+ .text          0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(fp_nan.o)
+ .data          0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(fp_nan.o)
+ .bss           0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(fp_nan.o)
+ .text          0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(fp_negdi.o)
+ .data          0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(fp_negdi.o)
+ .bss           0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(fp_negdi.o)
+ .text          0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(fp_pscA.o)
+ .data          0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(fp_pscA.o)
+ .bss           0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(fp_pscA.o)
+ .text          0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(fp_pscB.o)
+ .data          0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(fp_pscB.o)
+ .bss           0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(fp_pscB.o)
+ .text          0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(fp_round.o)
+ .data          0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(fp_round.o)
+ .bss           0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(fp_round.o)
+ .text          0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(fp_split3.o)
+ .data          0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(fp_split3.o)
+ .bss           0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(fp_split3.o)
+ .text          0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(fp_zero.o)
+ .data          0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(fp_zero.o)
+ .bss           0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(fp_zero.o)
+ .text          0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(mulsf3.o)
+ .data          0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(mulsf3.o)
+ .bss           0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(mulsf3.o)
+ .text          0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(mulsf3x.o)
+ .data          0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(mulsf3x.o)
+ .bss           0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(mulsf3x.o)
+ .text          0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(pow.o)
+ .data          0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(pow.o)
+ .bss           0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(pow.o)
+ .text          0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(round.o)
+ .data          0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(round.o)
+ .bss           0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(round.o)
+ .text          0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(exp.o)
+ .data          0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(exp.o)
+ .bss           0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(exp.o)
+ .text          0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(fp_mintl.o)
+ .data          0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(fp_mintl.o)
+ .bss           0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(fp_mintl.o)
+ .text          0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(fp_mpack.o)
+ .data          0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(fp_mpack.o)
+ .bss           0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(fp_mpack.o)
+ .text          0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(fp_powser.o)
+ .data          0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(fp_powser.o)
+ .bss           0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(fp_powser.o)
+ .text          0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(inverse.o)
+ .data          0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(inverse.o)
+ .bss           0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(inverse.o)
+ .text          0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(ldexp.o)
+ .data          0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(ldexp.o)
+ .bss           0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(ldexp.o)
+ .text          0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(log.o)
+ .data          0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(log.o)
+ .bss           0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(log.o)
+ .text          0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(modf.o)
+ .data          0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(modf.o)
+ .bss           0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(modf.o)
+ .text          0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr25\libgcc.a(_udivmodsi4.o)
+ .data          0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr25\libgcc.a(_udivmodsi4.o)
+ .bss           0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr25\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr25\libgcc.a(_udivmodsi4.o)
+ .text.libgcc   0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr25\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr25\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr25\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr25\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr25\libgcc.a(_udivmodsi4.o)
+ .text          0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr25\libgcc.a(_exit.o)
+ .data          0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr25\libgcc.a(_exit.o)
+ .bss           0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr25\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr25\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr25\libgcc.a(_exit.o)
+ .text.libgcc   0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr25\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr25\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr25\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr25\libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr25\libgcc.a(_exit.o)
+ .text          0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr25\libgcc.a(_copy_data.o)
+ .data          0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr25\libgcc.a(_copy_data.o)
+ .bss           0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr25\libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr25\libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr25\libgcc.a(_copy_data.o)
+ .text.libgcc   0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr25\libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr25\libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr25\libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr25\libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr25\libgcc.a(_copy_data.o)
+ .text          0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr25\libgcc.a(_clear_bss.o)
+ .data          0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr25\libgcc.a(_clear_bss.o)
+ .bss           0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr25\libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr25\libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr25\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr25\libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr25\libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr25\libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr25\libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr25\libgcc.a(_clear_bss.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00002000         xr
+data             0x00800060         0x00000200         rw !x
+eeprom           0x00810000         0x00000200         rw !x
+fuse             0x00820000         0x00000003         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+user_signatures  0x00850000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD X:/Extracurriculars/Microchip Studio/7.0/Packs/atmel/ATtiny_DFP/1.10.348/gcc/dev/attiny84/avr25/crtattiny84.o
+LOAD APP/Main.o
+LOAD HAL/LCD/LCD_Interface.o
+LOAD MCAL/DIO/DIO_Interface.o
+LOAD MCAL/Timers/Timers_Interface.o
+START GROUP
+LOAD x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a
+END GROUP
+START GROUP
+LOAD x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr25\libgcc.a
+LOAD x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a
+LOAD x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libc.a
+LOAD X:/Extracurriculars/Microchip Studio/7.0/Packs/atmel/ATtiny_DFP/1.10.348/gcc/dev/attiny84/avr25\libattiny84.a
+END GROUP
+                0x00000000                __TEXT_REGION_ORIGIN__ = DEFINED (__TEXT_REGION_ORIGIN__)?__TEXT_REGION_ORIGIN__:0x0
+                [0x00800060]                __DATA_REGION_ORIGIN__ = DEFINED (__DATA_REGION_ORIGIN__)?__DATA_REGION_ORIGIN__:0x800060
+                [0x00002000]                __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x2000
+                [0x00000200]                __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0xffa0
+                [0x00000200]                __EEPROM_REGION_LENGTH__ = DEFINED (__EEPROM_REGION_LENGTH__)?__EEPROM_REGION_LENGTH__:0x10000
+                [0x00000003]                __FUSE_REGION_LENGTH__ = DEFINED (__FUSE_REGION_LENGTH__)?__FUSE_REGION_LENGTH__:0x400
+                0x00000400                __LOCK_REGION_LENGTH__ = DEFINED (__LOCK_REGION_LENGTH__)?__LOCK_REGION_LENGTH__:0x400
+                0x00000400                __SIGNATURE_REGION_LENGTH__ = DEFINED (__SIGNATURE_REGION_LENGTH__)?__SIGNATURE_REGION_LENGTH__:0x400
+                0x00000400                __USER_SIGNATURE_REGION_LENGTH__ = DEFINED (__USER_SIGNATURE_REGION_LENGTH__)?__USER_SIGNATURE_REGION_LENGTH__:0x400
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x1374
+ *(.vectors)
+ .vectors       0x00000000       0x22 X:/Extracurriculars/Microchip Studio/7.0/Packs/atmel/ATtiny_DFP/1.10.348/gcc/dev/attiny84/avr25/crtattiny84.o
+                0x00000000                __vector_default
+                0x00000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+ .progmem.gcc_fplib
+                0x00000022       0x28 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(exp.o)
+ .progmem.gcc_fplib
+                0x0000004a       0x5a x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(log.o)
+                0x000000a4                . = ALIGN (0x2)
+                0x000000a4                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x000000a4        0x0 linker stubs
+ *(.trampolines*)
+                0x000000a4                __trampolines_end = .
+ *libprintf_flt.a:*(.progmem.data)
+ *libc.a:*(.progmem.data)
+ *(.progmem*)
+                0x000000a4                . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x000000a4                __ctors_start = .
+ *(.ctors)
+                0x000000a4                __ctors_end = .
+                0x000000a4                __dtors_start = .
+ *(.dtors)
+                0x000000a4                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x000000a4        0x0 X:/Extracurriculars/Microchip Studio/7.0/Packs/atmel/ATtiny_DFP/1.10.348/gcc/dev/attiny84/avr25/crtattiny84.o
+                0x000000a4                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x000000a4        0xc X:/Extracurriculars/Microchip Studio/7.0/Packs/atmel/ATtiny_DFP/1.10.348/gcc/dev/attiny84/avr25/crtattiny84.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x000000b0       0x16 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr25\libgcc.a(_copy_data.o)
+                0x000000b0                __do_copy_data
+ .init4         0x000000c6       0x10 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr25\libgcc.a(_clear_bss.o)
+                0x000000c6                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x000000d6        0x4 X:/Extracurriculars/Microchip Studio/7.0/Packs/atmel/ATtiny_DFP/1.10.348/gcc/dev/attiny84/avr25/crtattiny84.o
+ *(.init9)
+ *(.text)
+ .text          0x000000da        0x2 X:/Extracurriculars/Microchip Studio/7.0/Packs/atmel/ATtiny_DFP/1.10.348/gcc/dev/attiny84/avr25/crtattiny84.o
+                0x000000da                __vector_1
+                0x000000da                __vector_12
+                0x000000da                __bad_interrupt
+                0x000000da                __vector_6
+                0x000000da                __vector_3
+                0x000000da                __vector_11
+                0x000000da                __vector_13
+                0x000000da                __vector_7
+                0x000000da                __vector_5
+                0x000000da                __vector_4
+                0x000000da                __vector_9
+                0x000000da                __vector_2
+                0x000000da                __vector_15
+                0x000000da                __vector_8
+                0x000000da                __vector_14
+                0x000000da                __vector_10
+                0x000000da                __vector_16
+                0x000000dc                . = ALIGN (0x2)
+ *(.text.*)
+ .text.main     0x000000dc       0x80 APP/Main.o
+                0x000000dc                main
+ .text.LCD_Enable
+                0x0000015c       0x1e HAL/LCD/LCD_Interface.o
+                0x0000015c                LCD_Enable
+ .text.LCD_Send_Command
+                0x0000017a       0x6e HAL/LCD/LCD_Interface.o
+                0x0000017a                LCD_Send_Command
+ .text.LCD_HomeScreen
+                0x000001e8       0x1a HAL/LCD/LCD_Interface.o
+                0x000001e8                LCD_HomeScreen
+ .text.LCD_ClearScreen
+                0x00000202       0x14 HAL/LCD/LCD_Interface.o
+                0x00000202                LCD_ClearScreen
+ .text.LCD_Initialize
+                0x00000216       0x6e HAL/LCD/LCD_Interface.o
+                0x00000216                LCD_Initialize
+ .text.LCD_LineCheck
+                0x00000284       0x28 HAL/LCD/LCD_Interface.o
+                0x00000284                LCD_LineCheck
+ .text.LCD_Display_Character
+                0x000002ac       0x86 HAL/LCD/LCD_Interface.o
+                0x000002ac                LCD_Display_Character
+ .text.LCD_Display_String
+                0x00000332       0x24 HAL/LCD/LCD_Interface.o
+                0x00000332                LCD_Display_String
+ .text.LCD_Reverse_String
+                0x00000356       0x26 HAL/LCD/LCD_Interface.o
+                0x00000356                LCD_Reverse_String
+ .text.LCD_IntToString
+                0x0000037c       0x6e HAL/LCD/LCD_Interface.o
+                0x0000037c                LCD_IntToString
+ .text.LCD_Display_Number
+                0x000003ea       0x46 HAL/LCD/LCD_Interface.o
+                0x000003ea                LCD_Display_Number
+ .text.LCD_FloatToString
+                0x00000430       0xaa HAL/LCD/LCD_Interface.o
+                0x00000430                LCD_FloatToString
+ .text.LCD_Display_FloatNumber
+                0x000004da       0x36 HAL/LCD/LCD_Interface.o
+                0x000004da                LCD_Display_FloatNumber
+ .text.LCD_Display_Location
+                0x00000510       0x5a HAL/LCD/LCD_Interface.o
+                0x00000510                LCD_Display_Location
+ .text.LCD_Send_Special
+                0x0000056a       0x56 HAL/LCD/LCD_Interface.o
+                0x0000056a                LCD_Send_Special
+ .text.LCD_Store_Special
+                0x000005c0       0x54 HAL/LCD/LCD_Interface.o
+                0x000005c0                LCD_Store_Special
+ .text.LCD_Display_Frequency
+                0x00000614       0x7e HAL/LCD/LCD_Interface.o
+                0x00000614                LCD_Display_Frequency
+ .text.LCD_Display_DutyCycle
+                0x00000692       0x22 HAL/LCD/LCD_Interface.o
+                0x00000692                LCD_Display_DutyCycle
+ .text.LCD_Draw_Pulse
+                0x000006b4       0xa0 HAL/LCD/LCD_Interface.o
+                0x000006b4                LCD_Draw_Pulse
+ .text.DIO_SetPinDirection
+                0x00000754       0x6e MCAL/DIO/DIO_Interface.o
+                0x00000754                DIO_SetPinDirection
+ .text.DIO_SetPinValue
+                0x000007c2       0x6e MCAL/DIO/DIO_Interface.o
+                0x000007c2                DIO_SetPinValue
+ .text.DIO_WritePortValue
+                0x00000830       0x50 MCAL/DIO/DIO_Interface.o
+                0x00000830                DIO_WritePortValue
+ .text.Timer1_ICP_Initialize
+                0x00000880       0x44 MCAL/Timers/Timers_Interface.o
+                0x00000880                Timer1_ICP_Initialize
+ .text.Timer1_ICP_Start
+                0x000008c4      0x18c MCAL/Timers/Timers_Interface.o
+                0x000008c4                Timer1_ICP_Start
+ .text.Timer1_ICP_Get_Frequency
+                0x00000a50       0x72 MCAL/Timers/Timers_Interface.o
+                0x00000a50                Timer1_ICP_Get_Frequency
+ .text.Timer1_ICP_Get_DutyCycle
+                0x00000ac2       0x9e MCAL/Timers/Timers_Interface.o
+                0x00000ac2                Timer1_ICP_Get_DutyCycle
+ .text.Timer1_ICP_Stop
+                0x00000b60       0x14 MCAL/Timers/Timers_Interface.o
+                0x00000b60                Timer1_ICP_Stop
+ .text.avr-libc.fplib
+                0x00000b74        0xa x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(addsf3.o)
+                0x00000b74                __subsf3
+                0x00000b76                __addsf3
+ .text.avr-libc.fplib
+                0x00000b7e       0xc0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(addsf3x.o)
+                0x00000b98                __addsf3x
+ .text.avr-libc.fplib
+                0x00000c3e        0x4 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(divsf3.o)
+                0x00000c3e                __divsf3
+ .text.avr-libc.fplib
+                0x00000c42       0xcc x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(divsf3x.o)
+                0x00000c58                __divsf3x
+                0x00000c5c                __divsf3_pse
+ .text.avr-libc.fplib
+                0x00000d0e       0x74 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(fixsfdi.o)
+                0x00000d0e                __fixsfdi
+                0x00000d18                __fixunssfdi
+ .text.avr-libc.fplib
+                0x00000d82       0x58 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(fixunssfsi.o)
+                0x00000d82                __fixunssfsi
+ .text.avr-libc.fplib
+                0x00000dda       0x7a x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(floatsisf.o)
+                0x00000dda                __floatunsisf
+                0x00000dde                __floatsisf
+ .text.avr-libc.fplib
+                0x00000e54        0xc x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(fp_inf.o)
+                0x00000e54                __fp_inf
+ .text.avr-libc.fplib
+                0x00000e60        0x6 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(fp_nan.o)
+                0x00000e60                __fp_nan
+ .text.avr-libc.fplib
+                0x00000e66       0x20 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(fp_negdi.o)
+                0x00000e66                __fp_negdi
+ .text.avr-libc.fplib
+                0x00000e86        0xe x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(fp_pscA.o)
+                0x00000e86                __fp_pscA
+ .text.avr-libc.fplib
+                0x00000e94        0xe x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(fp_pscB.o)
+                0x00000e94                __fp_pscB
+ .text.avr-libc.fplib
+                0x00000ea2       0x22 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(fp_round.o)
+                0x00000ea2                __fp_round
+ .text.avr-libc.fplib
+                0x00000ec4       0x44 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(fp_split3.o)
+                0x00000ec4                __fp_split3
+                0x00000ed4                __fp_splitA
+ .text.avr-libc.fplib
+                0x00000f08        0xe x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(fp_zero.o)
+                0x00000f08                __fp_zero
+                0x00000f0a                __fp_szero
+ .text.avr-libc.fplib
+                0x00000f16        0x4 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(mulsf3.o)
+                0x00000f16                __mulsf3
+ .text.avr-libc.fplib
+                0x00000f1a       0xd2 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(mulsf3x.o)
+                0x00000f2c                __mulsf3x
+                0x00000f30                __mulsf3_pse
+ .text.avr-libc.fplib
+                0x00000fec       0x98 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(pow.o)
+                0x00000fec                pow
+ .text.avr-libc.fplib
+                0x00001084       0x40 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(round.o)
+                0x00001084                round
+ .text.avr-libc.fplib
+                0x000010c4       0x62 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(exp.o)
+                0x000010ce                exp
+ .text.avr-libc.fplib
+                0x00001126       0x36 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(fp_mintl.o)
+                0x00001126                __fp_mintl
+ .text.avr-libc.fplib
+                0x0000115c       0x1c x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(fp_mpack.o)
+                0x0000115c                __fp_mpack
+                0x00001160                __fp_mpack_finite
+ .text.avr-libc.fplib
+                0x00001178       0x4a x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(fp_powser.o)
+                0x00001178                __fp_powser
+ .text.avr-libc.fplib
+                0x000011c2        0xe x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(inverse.o)
+                0x000011c2                inverse
+ .text.avr-libc.fplib
+                0x000011d0       0x6c x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(ldexp.o)
+                0x000011d4                ldexp
+ .text.avr-libc.fplib
+                0x0000123c       0x8a x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(log.o)
+                0x00001246                log
+ .text.avr-libc.fplib
+                0x000012c6       0x66 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr25\libm.a(modf.o)
+                0x000012c6                modf
+                0x000012c6                modff
+ .text.libgcc.div
+                0x0000132c       0x44 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr25\libgcc.a(_udivmodsi4.o)
+                0x0000132c                __udivmodsi4
+                0x00001370                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00001370        0x0 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr25\libgcc.a(_exit.o)
+                0x00001370                _exit
+                0x00001370                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00001370        0x4 x:/extracurriculars/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr25\libgcc.a(_exit.o)
+ *(.fini0)
+                0x00001374                _etext = .
+
+.data           0x00800060       0x32 load address 0x00001374
+                0x00800060                PROVIDE (__data_start, .)
+ *(.data)
+ *(.data*)
+ .data.Overscore
+                0x00800060        0x8 APP/Main.o
+                0x00800060                Overscore
+ *(.gnu.linkonce.d*)
+ *(.rodata)
+ *(.rodata*)
+ .rodata.str1.1
+                0x00800068       0x10 APP/Main.o
+ .rodata.str1.1
+                0x00800078       0x1a HAL/LCD/LCD_Interface.o
+                                 0x1d (size before relaxing)
+ *(.gnu.linkonce.r*)
+                0x00800092                . = ALIGN (0x2)
+                0x00800092                _edata = .
+                0x00800092                PROVIDE (__data_end, .)
+
+.bss            0x00800092       0x1b
+                0x00800092                PROVIDE (__bss_start, .)
+ *(.bss)
+ *(.bss*)
+ .bss.DutyCycle
+                0x00800092        0x1 APP/Main.o
+                0x00800092                DutyCycle
+ .bss.Frequency
+                0x00800093        0x4 APP/Main.o
+                0x00800093                Frequency
+ .bss.Initialized.2367
+                0x00800097        0x1 HAL/LCD/LCD_Interface.o
+ .bss.Factor    0x00800098        0x4 MCAL/Timers/Timers_Interface.o
+                0x00800098                Factor
+ .bss.High_Time
+                0x0080009c        0x4 MCAL/Timers/Timers_Interface.o
+                0x0080009c                High_Time
+ .bss.Period    0x008000a0        0x4 MCAL/Timers/Timers_Interface.o
+                0x008000a0                Period
+ .bss.Capture3  0x008000a4        0x2 MCAL/Timers/Timers_Interface.o
+                0x008000a4                Capture3
+ .bss.Capture2  0x008000a6        0x2 MCAL/Timers/Timers_Interface.o
+                0x008000a6                Capture2
+ .bss.Capture1  0x008000a8        0x2 MCAL/Timers/Timers_Interface.o
+                0x008000a8                Capture1
+ *(COMMON)
+ COMMON         0x008000aa        0x3 APP/Main.o
+                0x008000aa                CursorDirection
+                0x008000ab                Character_Counter
+                0x008000ad                PROVIDE (__bss_end, .)
+                0x00001374                __data_load_start = LOADADDR (.data)
+                0x000013a6                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x008000ad        0x0
+                [!provide]                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                [!provide]                PROVIDE (__noinit_end, .)
+                0x008000ad                _end = .
+                [!provide]                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x30
+ *(.comment)
+ .comment       0x00000000       0x30 APP/Main.o
+                                 0x31 (size before relaxing)
+ .comment       0x00000030       0x31 HAL/LCD/LCD_Interface.o
+ .comment       0x00000030       0x31 MCAL/DIO/DIO_Interface.o
+ .comment       0x00000030       0x31 MCAL/Timers/Timers_Interface.o
+
+.note.gnu.avr.deviceinfo
+                0x00000000       0x3c
+ .note.gnu.avr.deviceinfo
+                0x00000000       0x3c X:/Extracurriculars/Microchip Studio/7.0/Packs/atmel/ATtiny_DFP/1.10.348/gcc/dev/attiny84/avr25/crtattiny84.o
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x178
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x20 APP/Main.o
+ .debug_aranges
+                0x00000020       0xb0 HAL/LCD/LCD_Interface.o
+ .debug_aranges
+                0x000000d0       0x68 MCAL/DIO/DIO_Interface.o
+ .debug_aranges
+                0x00000138       0x40 MCAL/Timers/Timers_Interface.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0x1c3d
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000      0x420 X:/Extracurriculars/Microchip Studio/7.0/Packs/atmel/ATtiny_DFP/1.10.348/gcc/dev/attiny84/avr25/crtattiny84.o
+ .debug_info    0x00000420      0x38b APP/Main.o
+ .debug_info    0x000007ab      0xee7 HAL/LCD/LCD_Interface.o
+ .debug_info    0x00001692      0x3c8 MCAL/DIO/DIO_Interface.o
+ .debug_info    0x00001a5a      0x1e3 MCAL/Timers/Timers_Interface.o
+
+.debug_abbrev   0x00000000      0x92e
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x3e8 X:/Extracurriculars/Microchip Studio/7.0/Packs/atmel/ATtiny_DFP/1.10.348/gcc/dev/attiny84/avr25/crtattiny84.o
+ .debug_abbrev  0x000003e8      0x149 APP/Main.o
+ .debug_abbrev  0x00000531      0x226 HAL/LCD/LCD_Interface.o
+ .debug_abbrev  0x00000757       0xf3 MCAL/DIO/DIO_Interface.o
+ .debug_abbrev  0x0000084a       0xe4 MCAL/Timers/Timers_Interface.o
+
+.debug_line     0x00000000      0xfdb
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000       0xfe X:/Extracurriculars/Microchip Studio/7.0/Packs/atmel/ATtiny_DFP/1.10.348/gcc/dev/attiny84/avr25/crtattiny84.o
+ .debug_line    0x000000fe      0x233 APP/Main.o
+ .debug_line    0x00000331      0x6c1 HAL/LCD/LCD_Interface.o
+ .debug_line    0x000009f2      0x2db MCAL/DIO/DIO_Interface.o
+ .debug_line    0x00000ccd      0x30e MCAL/Timers/Timers_Interface.o
+
+.debug_frame    0x00000000      0x3c0
+ *(.debug_frame)
+ .debug_frame   0x00000000       0x24 APP/Main.o
+ .debug_frame   0x00000024      0x25c HAL/LCD/LCD_Interface.o
+ .debug_frame   0x00000280       0xb4 MCAL/DIO/DIO_Interface.o
+ .debug_frame   0x00000334       0x8c MCAL/Timers/Timers_Interface.o
+
+.debug_str      0x00000000      0x7f5
+ *(.debug_str)
+ .debug_str     0x00000000      0x173 X:/Extracurriculars/Microchip Studio/7.0/Packs/atmel/ATtiny_DFP/1.10.348/gcc/dev/attiny84/avr25/crtattiny84.o
+ .debug_str     0x00000173      0x2fc APP/Main.o
+                                0x349 (size before relaxing)
+ .debug_str     0x0000046f      0x224 HAL/LCD/LCD_Interface.o
+                                0x4dd (size before relaxing)
+ .debug_str     0x00000693       0xf1 MCAL/DIO/DIO_Interface.o
+                                0x329 (size before relaxing)
+ .debug_str     0x00000784       0x71 MCAL/Timers/Timers_Interface.o
+                                0x287 (size before relaxing)
+
+.debug_loc      0x00000000     0x1115
+ *(.debug_loc)
+ .debug_loc     0x00000000       0x90 APP/Main.o
+ .debug_loc     0x00000090      0xbe9 HAL/LCD/LCD_Interface.o
+ .debug_loc     0x00000c79      0x381 MCAL/DIO/DIO_Interface.o
+ .debug_loc     0x00000ffa      0x11b MCAL/Timers/Timers_Interface.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x00000000      0x138
+ *(.debug_ranges)
+ .debug_ranges  0x00000000       0x10 APP/Main.o
+ .debug_ranges  0x00000010       0xa0 HAL/LCD/LCD_Interface.o
+ .debug_ranges  0x000000b0       0x58 MCAL/DIO/DIO_Interface.o
+ .debug_ranges  0x00000108       0x30 MCAL/Timers/Timers_Interface.o
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(Graduation_Project.elf elf32-avr)
+LOAD linker stubs
