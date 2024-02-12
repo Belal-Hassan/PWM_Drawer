@@ -62,8 +62,8 @@ Note: A proteus simulation project is included in the project files.
 
 The project has the following unique specifications and charactristics:
 
-1. It can _measure up to 100kHz_ flawlessly.
-2. _100% accuracy_ was achieved in the 100kHz range.
+1. It can measure _from 501Hz to 100kHz_.
+2. _99% accuracy_ was achieved in the 100kHz range.
 3. The project can display up to _4 significant figures_ for frequency measurement.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
